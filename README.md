@@ -1,7 +1,15 @@
-# Digital House - 
+# Digital House
 
-## Aula19 - Node.js: Introducao Express
+## Aula 19 - Node.js: Introducao Express
 
-## Atividade Resolvida
+## Requesito
 
-- [Código-fonte](./)
+- [ ] Node.js 14.x ou superior.
+
+## Instalação
+
+1. `npm install` para instalar todas as dependências.
+
+## Atividade resolvida
+
+- [Código-fonte](./codigo-fonte)
